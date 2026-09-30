@@ -37,15 +37,6 @@ server.addEventListener("putinserver", (event) => {
 npm create amxts@latest
 ```
 
-## Repositories
-
-- [**amxts**](https://github.com/amxts/amxts) - The core: the compiler, the server module and the plugin API
-- [**amxts-cli**](https://github.com/amxts/amxts-cli) - The `amxts` command and `create-amxts`: new projects, modules, build, dev, test
-- [**menu-core**](https://github.com/amxts/menu-core) - Menus from INI, YAML or JSON files, with conditions and placeholders
-- [**config-core**](https://github.com/amxts/config-core) - Typed configs in INI, YAML or JSON
-- [**amxts-vscode**](https://github.com/amxts/amxts-vscode) - VS Code: live checks and completion for menu and config files
-- [**amxts.github.io**](https://github.com/amxts/amxts.github.io) - The documentation site
-
 ## По-русски
 
 **Плагины для Counter-Strike 1.6 на TypeScript.** Пишете плагин так же, как любой
